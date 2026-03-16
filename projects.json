@@ -1,0 +1,63 @@
+{
+    "data" : [
+        {
+            "name" : "Shop Mart E-commerce",
+            "description" : "Shop Mart is a comprehensive e-commerce application built using React and Redux. The project aims to provide an easy-to-use and scalable online shopping platform.Tailwind CSS. The application features a user-friendly interface, allowing customers to browse products, add items to their cart, and complete purchases. It also includes an admin dashboard for managing products, orders, and users.",
+            "technologies" : ["Next.js 15", "Redux Toolkit", "React Router DOM", "Axios", "Formik", "Yup", "React Helmet", "React Hot Toast", "React Loader Spinner", "React Query", "React Slick", "FontAwesome"],
+            "image" : "https://res.cloudinary.com/dkmqdamwb/image/upload/ShopMartecommerce_tgdhrq.jpg",
+            "links" : {
+                "github" : "https://github.com/abdulrahman-medhat/ecommerce-nextjs",
+                "live" : "https://ecommerce-nextjs-cszo.vercel.app/"
+            }
+        },
+        
+        {
+            "name" : "Netflix Clone",
+             "description" : "A Netflix clone built with React, Redux, and Firebase. The project features user authentication, browsing movies and shows, and viewing detailed information about each content item.",
+            "technologies" : ["HTML", "CSS", "JavaScript"],
+            "image" : "https://res.cloudinary.com/dkmqdamwb/image/upload/Netflix_x7swz9.jpg",
+            "links" : {
+                "github" : "https://github.com/abdulrahman-medhat/Netflix",
+                "live" : "https://abdulrahman-medhat.github.io/Netflix/"
+            }
+        },
+
+        {
+            "name" : "Weather App",
+            "description" : "A weather application built with Next.js, React, and Tailwind CSS. The app allows users to search for weather information by city name and displays current weather conditions, including temperature, humidity, and wind speed. It also supports internationalization (i18n) using next-intl.",
+            "technologies" : ["Next.js 15", "React 19", "Tailwind CSS 4", "next-intl (i18n)"],
+            "image" : "https://res.cloudinary.com/dkmqdamwb/image/upload/weather_nkkmwz.jpg",
+            "links" : {
+                "github" : "https://github.com/abdulrahman-medhat/Weather-App",
+                "live" : "https://abdulrahman-medhat.github.io/Weather-App/"
+            }
+        },
+
+        
+                {
+                    "name" : "Mealify",
+                    "description" : "Mealify is a restaurant website project designed using only HTML and CSS. The website has a visually appealing and fully responsive user interface with a list of available meals and contact details for customers.",
+                    "technologies" : ["HTML", "CSS", "FontAwesome"],
+                    "image" : "https://res.cloudinary.com/dpeaw3rl5/image/upload/v1732128642/project-2_hn7vj4.png",
+                    "links" : {
+                        "github" : "https://github.com/abdulrahman-medhat/mealify",
+                        "live" : "https://abdulrahman-medhat.github.io/mealify/"
+                    }
+                }
+        ,
+        
+        {
+            "name" : "normal-portfolio",
+            "description" : "A portfolio website built with React and Styled Components. The website features a clean and modern design, showcasing the developer's projects, skills, and contact information. It is fully responsive and optimized for performance.",
+            "technologies" : ["HTML", "Styled Components", "Bootstrap", "FontAwesome"],
+            "image" : "https://res.cloudinary.com/dkmqdamwb/image/upload/normal-portfolio_hbtl8f.jpg",
+            "links" : {
+                "github" : "https://github.com/abdulrahman-medhat/normal-portfolio",
+                "live" : "https://abdulrahman-medhat.github.io/normal-portfolio/"
+            }
+        }
+
+        
+    ]
+
+}

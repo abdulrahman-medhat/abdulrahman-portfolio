@@ -1,0 +1,24 @@
+.scroll-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.scroll-list {
+  display: flex;
+  white-space: nowrap;
+  animation: scroll 10s linear infinite; /* سرعة الحركة */
+}
+
+.scroll-item {
+  margin: 0 3rem;
+  flex-shrink: 0;
+  font-size: 1.5rem;
+  font-weight: 300; /* الخط رفيع */
+  font-family: 'Arial', sans-serif; /* خط أنيق */
+  letter-spacing: 0.05em; /* مسافة حروف صغيرة للأناقة */
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
