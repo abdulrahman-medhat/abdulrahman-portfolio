@@ -59,7 +59,11 @@ function Footer() {
                 <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.762 2.239 5 5 5h14c2.762 0 5-2.238 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-10h3v10zm-1.5-11.25c-.966 0-1.75-.784-1.75-1.75s.784-1.75 1.75-1.75 1.75.784 1.75 1.75-.784 1.75-1.75 1.75zm13.5 11.25h-3v-5.5c0-1.381-.028-3.156-1.922-3.156-1.922 0-2.217 1.5-2.217 3.053v5.603h-3v-10h2.881v1.367h.041c.401-.76 1.379-1.562 2.838-1.562 3.034 0 3.595 1.997 3.595 4.592v5.603z" />
               </svg>
             </a>
-            <a href="/Abdulrahman_Medhat_Frontend_Developer.pdf" download className=" hover:text-red-500 font-semibold">
+            <a
+              href="/Abdulrahman_Frontend_Developer.pdf"
+              download
+              className="hover:text-red-500 font-semibold"
+            >
               CV
             </a>
           </div>
